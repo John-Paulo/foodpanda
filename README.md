@@ -3,7 +3,7 @@
 A new Flutter project.
 
 
-![Splash Screen](assets\NucleioMart\Nucleiosplashscreen.png)
-![Login Screen](assets\NucleioMart\LoginScreen.png)
-![Welcome Page](assets\NucleioMart\WelcomePage.png)
-![Detail Screen](assets\NucleioMart\DetailScreen.png)
+![SplashScreen](assets\NucleioMart\Nucleiosplashscreen.png)
+![LoginScreen](assets\NucleioMart\LoginScreen.png)
+![WelcomePage](assets\NucleioMart\WelcomePage.png)
+![DetailScreen](assets\NucleioMart\DetailScreen.png)
