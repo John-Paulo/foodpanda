@@ -6,4 +6,4 @@ A new Flutter project.
 ![](assets\NucleioMart\Nucleiosplashscreen.png)
 ![](assets\NucleioMart\LoginScreen.png)
 ![](assets\NucleioMart\WelcomePage.png)
-![](assets\NucleioMart\DetailScreen.png)
+![](https://github.com/John-Paulo/foodpanda/blob/master/assets/NucleioMart/DetailScreen.png)
