@@ -2,8 +2,12 @@
 
 A new Flutter project.
 
-
-![](assets\NucleioMart\Nucleiosplashscreen.png)
-![](assets\NucleioMart\LoginScreen.png)
-![](assets\NucleioMart\WelcomePage.png)
-![](https://github.com/John-Paulo/foodpanda/blob/master/assets/NucleioMart/DetailScreen.png)
+## ScreeenShots
+### Login Page
+![Login](https://github.com/John-Paulo/foodpanda/blob/master/assets/NucleioMart/LoginScreen.png)
+### Splash Screen
+![Splash](https://github.com/John-Paulo/foodpanda/blob/master/assets/NucleioMart/Nucleiosplashscreen.png)
+### Welcome Page
+![Home](https://github.com/John-Paulo/foodpanda/blob/master/assets/NucleioMart/WelcomePage.png)
+### Details Page
+![Details](https://github.com/John-Paulo/foodpanda/blob/master/assets/NucleioMart/DetailScreen.png)
